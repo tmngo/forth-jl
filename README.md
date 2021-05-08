@@ -1,4 +1,4 @@
-# forth.jl
+# forth-jl
 
 A simple Forth interpreter.
 
